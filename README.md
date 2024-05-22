@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a undergraduate student at the Faculty of Engineering, Tanta University, major Computer Engineering & automatic control.
-I'm a junior flutter developer.
+- I'm a undergraduate student at the Faculty of Engineering, Tanta University, major Computer Engineering & automatic control.
+- I'm a junior flutter developer.
 
 
 - 🔭 I’m currently working on improving my skills as a flutter developer.
