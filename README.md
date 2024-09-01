@@ -14,6 +14,7 @@
   [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/kemo.abokamel.9?mibextid=ZbWKwL )
   
 ### Some Projects
+- **Bookly app** [Link](https://github.com/KarimTamer74/bookly-app)
 - **Chat app** [Link](https://github.com/KarimTamer74/chat-app)
 - **Notes app** [Link](https://github.com/KarimTamer74/notes_app)
 - **News app** [Link](https://github.com/KarimTamer74/news-app)
