@@ -8,10 +8,12 @@
 - 🌱 I’m currently curious about mobile applications.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [flutter_bloc](https://pub.dev/packages/flutter_bloc).
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link](https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link)
 - 📫 How to reach me:
 
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/karim-tamer74?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
   [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/kemo.abokamel.9?mibextid=ZbWKwL )
+  [!["Email"](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karimabokamel74@example.com)
   
 ### Some Projects 
 - *Taskify App* [Link](https://github.com/KarimTamer74/taskify-app)
