@@ -1,24 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Karim Tamer</h1>
+<h3 align="center">A passionate flutter developer from Egypt</h3>
 
-- I'm a undergraduate student at the Faculty of Engineering, Tanta University, major Computer Engineering & automatic control.
-- I'm a junior flutter developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimtamer74&label=Profile%20views&color=0e75b6&style=flat" alt="karimtamer74" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimtamer74" alt="karimtamer74" /></a> </p>
 
-- 🔭 I’m currently working on improving my skills as a flutter developer.
-- 🌱 I’m currently curious about mobile applications.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [flutter_bloc](https://pub.dev/packages/flutter_bloc).
-- 📫 How to reach me:
+- 🌱 I’m currently learning **Flutter, Payment, Local Notifications**
 
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/karim-tamer74?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/kemo.abokamel.9?mibextid=ZbWKwL )
-  
-### Some Projects 
-- **Taskify App** [Link](https://github.com/KarimTamer74/taskify-app)
-- **Chatbot app** [Link](https://github.com/KarimTamer74/chatbot-app/tree/master)
-- **Bookly app** [Link](https://github.com/KarimTamer74/bookly-app)
-- **Shopping app** [Link](https://github.com/KarimTamer74/shopping_app)
-- **Chat app** [Link](https://github.com/KarimTamer74/chat-app)
-- **Notes app** [Link](https://github.com/KarimTamer74/notes_app)
-- **News app** [Link](https://github.com/KarimTamer74/news-app)
-- **Weather app** [Link](https://github.com/KarimTamer74/weather-app)
+- 💬 Ask me about **Dart, Flutter, Firebase, Sqflite**
+
+- 📫 How to reach me **karimabokamel74@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link](https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karim abo kamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim abo kamel" height="30" width="40" /></a>
+<a href="https://fb.com/karim abo kamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karim abo kamel" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimtamer74&show_icons=true&locale=en&layout=compact" alt="karimtamer74" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimtamer74&show_icons=true&locale=en" alt="karimtamer74" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimtamer74&" alt="karimtamer74" /></p>
