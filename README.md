@@ -8,9 +8,8 @@
 - 🌱 I’m currently curious about mobile applications.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [flutter_bloc](https://pub.dev/packages/flutter_bloc).
-- 📄 Know about my experiences:
-     [CV](https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link)
-     [Portfolio]([https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link](https://portfolio-karimtamer.netlify.app/))
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link)
+- 📄 My Portfolio: [Portfolio]([https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link](https://portfolio-karimtamer.netlify.app/))
 - 📫 How to reach me:
 
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/karim-tamer74?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
