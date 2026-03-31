@@ -1,7 +1,7 @@
 <!-- Animated Flutter Banner -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://lottiefiles.com/free-animation/development-bJNyWI16KL)" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Karim Tamer</h1>
@@ -12,11 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Instructor;Flutter+Developer;Welcome+to+my+GitHub+Profile&center=true&width=500&height=45">
 </p>
 
-<!-- Profile Views -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimTamer74&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
@@ -36,13 +31,13 @@
 ### 👨‍💻 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,react" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
 ### ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,supabase,git,github,postman,vscode" />
 </p>
 
 ### 🧩 Concepts & Architecture
@@ -90,7 +85,6 @@
 * Local DB (Sqflite)
 * Smart notifications
 
-🔗 https://github.com/KarimTamer74/taskify-app
 🌐 https://jobtasker-app.netlify.app/
 
 ---
@@ -107,6 +101,7 @@
 * Payment integration
 * Notifications system
 
+🔗 [https://github.com/KarimTamer74/bookly-app](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
 ---
 
 ### 📚 Bookly App
@@ -169,9 +164,12 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarimTamer74&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+* 🚀 Successfully launched a production app (**JobTasker**) on Google Play
+* 👨‍🏫 Trained and mentored developers through **90+ hours** of Flutter instruction @ NTI
+* ⚡ Delivered a fully functional MVP in **2 weeks** for a real client (Mothooq App)
+* 🎓 Achieved **Excellent Grade (85%)** in Computer Engineering
+* 🛒 Engineered a real-time auction platform with **live bidding & payment integration**
+* 📱 Built scalable Flutter applications using modern architectures (MVVM, Clean Architecture)
 
 ---
 
