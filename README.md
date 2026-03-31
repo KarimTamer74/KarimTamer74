@@ -1,89 +1,14 @@
-<!-- Animated Flutter Banner -->
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://lottiefiles.com/free-animation/development-bJNyWI16KL)" width="300"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Karim Tamer</h1>
-
-<!-- Typing Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Instructor;Flutter+Developer;Welcome+to+my+GitHub+Profile&center=true&width=500&height=45">
-</p>
-
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Engineering Graduate – Tanta University (Excellent - 85%)
-* 👨‍🏫 Flutter Instructor @ NTI (90+ hours of training delivered)
-* 📱 Flutter Developer with real-world production experience
-* ⚡ Experienced in building scalable and maintainable apps
-* 🔥 Strong with Firebase, REST APIs, and performance optimization
-* 🚀 Delivered real-world MVPs under tight deadlines
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,firebase,supabase,git,github,postman,vscode" />
-</p>
-
-### 🧩 Concepts & Architecture
-
-<p align="center">
-
-🚧 Clean Architecture & Scalable Systems
-🧠 MVVM Pattern
-🔄 BLoC & Cubit State Management
-🌐 RESTful APIs Integration
-🧩 SOLID Principles & Clean Code
-
-</p>
-
----
-
-## 💼 Experience
-
-### 👨‍🏫 Flutter Instructor — NTI
-
-* Delivered **90+ hours** of Flutter training
-* Mentored trainees to build real-world apps
-* Focused on clean code & scalable architecture
-
-### 💻 Flutter Developer — Mothooq (Freelance)
-
-* Built a used-car marketplace
-* Implemented BLoC + responsive UI
-* Integrated Firebase Authentication
-* Delivered MVP in 2 weeks
-
----
-
 ## 🌟 Featured Projects
 
 ### 🔥 JobTasker App (Live)
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p> -->
+📱 A productivity & job tracking application designed to manage the full job search lifecycle efficiently.
 
-📱 Productivity & job tracking system
-
-* Task & job tracking
-* Local DB (Sqflite)
-* Smart notifications
+* 🧾 Track job applications, statuses, and CV versions
+* ⏰ Smart reminder system using Local Notifications
+* 💾 Optimized local storage using Sqflite
+* 🎯 Focus Mode to enhance productivity
+* 🎨 Clean UI with theming & localization support
 
 🌐 https://jobtasker-app.netlify.app/
 
@@ -91,119 +16,76 @@
 
 ### 🛒 Bid Mart (Graduation Project)
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
-</p> -->
+📱 A real-time auction platform enabling dynamic bidding and complete seller-side management.
 
-📱 Real-time auction platform
+* 🔴 Live bidding system with real-time price updates
+* 💳 Secure payment integration
+* 🔔 Real-time notifications for auction events
+* 🧑‍💼 Full seller workflow (create, manage, monitor auctions)
+* 🏗️ Built using Clean Architecture & scalable design
 
-* Live bidding system
-* Payment integration
-* Notifications system
-
-🔗 [App Details](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
+🔗 https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link
 
 ---
 
 ### 📚 Bookly App
 
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
-</p> -->
+📱 A book discovery app focused on performance and clean architecture.
 
-📱 Book discovery app
-
-* API + Pagination
-* Hive caching
-* BLoC architecture
+* 🔍 Book search & category browsing
+* ⚡ API integration with optimized pagination
+* 💾 Local caching using Hive
+* 🧩 BLoC state management
+* 🎨 Modern and responsive UI
 
 🔗 https://github.com/KarimTamer74/bookly-app
 
 ---
 
-📂 More Projects
-📰 News App → News browsing app with API integration & category filtering
-🔗 https://github.com/KarimTamer74/news-app
-💬 Chat App → Real-time chat using Firebase with clean UI
-🔗 https://github.com/KarimTamer74/chat-app
-🛍️ Shopping App → E-commerce UI with product listing & cart logic
-🔗 https://github.com/KarimTamer74/shopping_app
-🌦️ Weather App → Weather forecasting using external API & location data
-🔗 https://github.com/KarimTamer74/weather-app
-📝 Notes App → Local note-taking app with persistent storage
-🔗 https://github.com/KarimTamer74/notes_app
-🗺️ Play Zone
+## 📂 More Projects
 
-📍 Google Maps-based app to discover nearby football stadiums
-🔗 https://github.com/KarimTamer74/play_zone
+* 📰 **News App**
+  News browsing app with API integration, category filtering, and clean UI
+  🔗 https://github.com/KarimTamer74/news-app
 
-🍔 Yummy App
+* 💬 **Chat App**
+  Real-time messaging app using Firebase with responsive and clean design
+  🔗 https://github.com/KarimTamer74/chat-app
 
-🍳 Recipe app displaying meals with categories & details
-🔗 https://github.com/KarimTamer74/yummy_app
+* 🛍️ **Shopping App**
+  E-commerce application with product listing, filtering, and cart functionality
+  🔗 https://github.com/KarimTamer74/shopping_app
 
-💳 Payment App
+* 🌦️ **Weather App**
+  Weather forecasting app using external APIs and location-based data
+  🔗 https://github.com/KarimTamer74/weather-app
 
-💰 Payment integration demo (Stripe & PayPal) with secure flows
-🔗 https://github.com/KarimTamer74/payment_app
-
-🛒 NTI E-Commerce
-
-🛍️ Simple e-commerce app with product browsing & basic cart
-🔗 https://github.com/KarimTamer74/nti-e-commerce
-
-🤖 Chatbot App
-
-🤖 AI chatbot interface with conversational UI
-🔗 https://github.com/KarimTamer74/chatbot-app
-
-💬 NTI WhatsApp Clone
-
-📱 Messaging app clone with chat UI & basic messaging features
-🔗 https://github.com/KarimTamer74/nti_whatsapp
----
-
-## 🌐 Portfolio & CV
-
-* 🌐 Portfolio: https://portfolio-karimtamer.netlify.app/
-* 📄 CV: https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view
+* 📝 **Notes App**
+  Lightweight note-taking app with local storage and simple UX
+  🔗 https://github.com/KarimTamer74/notes_app
 
 ---
 
-## 📫 Connect With Me
+* 🗺️ **Play Zone**
+  Google Maps-based app to discover nearby football stadiums with location markers
+  🔗 https://github.com/KarimTamer74/play_zone
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karim-tamer74">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:karimabokamel74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/KarimTamer74">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+* 🍔 **Yummy App**
+  Recipe application displaying meals, categories, and detailed cooking instructions
+  🔗 https://github.com/KarimTamer74/yummy_app
 
----
+* 💳 **Payment App**
+  Payment integration demo implementing Stripe & PayPal workflows securely
+  🔗 https://github.com/KarimTamer74/payment_app
 
-## 📊 GitHub Stats
+* 🛒 **NTI E-Commerce**
+  Simple e-commerce app with product browsing and basic cart system
+  🔗 https://github.com/KarimTamer74/nti-e-commerce
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimTamer74&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimTamer74&theme=tokyonight" />
-</p>
+* 🤖 **Chatbot App**
+  AI chatbot interface with conversational UI and message handling
+  🔗 https://github.com/KarimTamer74/chatbot-app
 
----
-
-## 🏆 Achievements
-
-* 🚀 Successfully launched a production app (**JobTasker**) on Google Play
-* 👨‍🏫 Trained and mentored developers through **90+ hours** of Flutter instruction @ NTI
-* ⚡ Delivered a fully functional MVP in **2 weeks** for a real client (Mothooq App)
-* 🎓 Achieved **Excellent Grade (85%)** in Computer Engineering
-* 🛒 Engineered a real-time auction platform with **live bidding & payment integration**
-* 📱 Built scalable Flutter applications using modern architectures (MVVM, Clean Architecture)
-
----
-
-⭐ *Building real-world Flutter apps with scalable architecture & clean UX*
+* 💬 **NTI WhatsApp Clone**
+  Messaging app clone featuring chat UI and core messaging functionality
+  🔗 https://github.com/KarimTamer74/nti_whatsapp
