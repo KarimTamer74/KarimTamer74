@@ -83,7 +83,7 @@
 * Local DB (Sqflite)
 * Smart notifications
 
-🌐 https://jobtasker-app.netlify.app/
+🌐 [App Details](https://jobtasker-app.netlify.app/)
 
 ---
 
@@ -115,7 +115,7 @@
 * Hive caching
 * BLoC architecture
 
-🔗 https://github.com/KarimTamer74/bookly-app
+🔗 🌐 [App Details](https://github.com/KarimTamer74/bookly-app)
 
 ## 📂 More Projects
 
