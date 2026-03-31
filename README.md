@@ -95,18 +95,6 @@
 
 ---
 
-## 🏆 Achievements
-
-| | Achievement |
-|--|------------|
-| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
-| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
-| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
-| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
-| 🛒 | Built a real-time auction platform with live bidding & payments |
-| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
-
----
 
 ## 🌟 Featured Projects
 
@@ -182,12 +170,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimTamer74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimTamer74&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=KarimTamer74&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -197,6 +179,32 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <b>⭐ Building real-world Flutter apps with scalable architecture & clean UX</b>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| | Achievement |
+|:--:|:-----------|
+| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
+| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
+| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
+| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
+| 🛒 | Built a real-time auction platform with live bidding & payments |
+| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 <p align="center">
   <b>⭐ Building real-world Flutter apps with scalable architecture & clean UX</b>
 </p>
