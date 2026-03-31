@@ -101,7 +101,7 @@
 * Payment integration
 * Notifications system
 
-🔗 [https://github.com/KarimTamer74/bookly-app](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
+🔗 [App Details](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
 
 ---
 
