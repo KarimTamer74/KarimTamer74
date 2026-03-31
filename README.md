@@ -1,6 +1,6 @@
 <!-- Animated Flutter Banner -->
 
-<img src="[](https://github.com/KarimTamer74/KarimTamer74/blob/main/flutter.gif)" width="300"/>
+<img src="[About](https://github.com/KarimTamer74/KarimTamer74/blob/main/flutter.gif)" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Karim Tamer</h1>
 
