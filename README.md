@@ -175,16 +175,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>⭐ Building real-world Flutter apps with scalable architecture & clean UX</b>
-</p>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -205,6 +195,10 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
 <p align="center">
   <b>⭐ Building real-world Flutter apps with scalable architecture & clean UX</b>
 </p>
+
+---
+
