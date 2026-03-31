@@ -54,6 +54,15 @@
 </tr>
 </table>
 
+```yaml
+Name        : Karim Tamer
+Role        : Flutter Developer & Instructor
+Education   : B.Sc. Computer Engineering — Tanta University (Excellent, 85%)
+Experience  : Flutter Instructor @ NTI | Flutter Developer @ Mothooq
+Expertise   : Clean Architecture · BLoC · Firebase · REST APIs
+Status      : 🟢 Open to all opportunities
+```
+
 ---
 
 ## 🛠️ Tech Stack
@@ -70,15 +79,18 @@
 
 ### 🧩 Architecture & Patterns
 
-<p align="center">
+<div align="center">
+
 | Concept | Details |
-|--------|---------|
+|:-------:|:--------|
 | 🏗️ Architecture | Clean Architecture, MVVM |
 | 🔄 State Management | BLoC, Cubit |
 | 🌐 Backend | REST APIs, Firebase, Supabase |
 | 🧹 Code Quality | SOLID Principles, Clean Code |
 | 💾 Local Storage | Hive, Sqflite, SharedPreferences |
-</p>
+
+</div>
+
 ---
 
 ## 💼 Experience
@@ -96,6 +108,22 @@
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+| | Achievement |
+|:--:|:-----------|
+| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
+| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
+| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
+| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
+| 🛒 | Built a real-time auction platform with live bidding & payments |
+| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
+
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
@@ -168,23 +196,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| | Achievement |
-|:--:|:-----------|
-| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
-| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
-| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
-| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
-| 🛒 | Built a real-time auction platform with live bidding & payments |
-| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -200,6 +211,3 @@
 <p align="center">
   <b>⭐ Building real-world Flutter apps with scalable architecture & clean UX</b>
 </p>
-
----
-
