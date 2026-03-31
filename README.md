@@ -54,15 +54,6 @@
 </tr>
 </table>
 
-```yaml
-Name        : Karim Tamer
-Role        : Flutter Developer & Instructor
-Education   : B.Sc. Computer Engineering — Tanta University (Excellent, 85%)
-Experience  : Flutter Instructor @ NTI | Flutter Developer @ Mothooq
-Expertise   : Clean Architecture · BLoC · Firebase · REST APIs
-Status      : 🟢 Open to all opportunities
-```
-
 ---
 
 ## 🛠️ Tech Stack
