@@ -27,25 +27,32 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimTamer74&label=Profile+Views&color=00b4d8&style=flat" alt="profile views" />
-</p>
 
 ---
 
 ## 🟢 Open to Work — Flutter Developer
 
-> 📍 Egypt &nbsp;|&nbsp; 💼 Full-time / Freelance &nbsp;|&nbsp; 🌐 Remote-friendly  
+> 📍 Egypt &nbsp;|&nbsp; 🌐 Remote &nbsp;|&nbsp; 🏢 On-site &nbsp;|&nbsp; 🕐 Part-time &nbsp;|&nbsp; 💼 Full-time &nbsp;|&nbsp; 🤝 Freelance  
 > 📬 **karimabokamel74@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-Flutter Developer and Instructor with hands-on experience building and shipping production apps.
-I graduated from Tanta University with an Excellent grade, trained **90+ hours** of Flutter at NTI,
-and delivered a client MVP in just **2 weeks**. I care deeply about clean architecture, scalable code,
-and experiences that feel great to use.
+<table>
+<tr>
+<td>
+
+🎓 **Computer Engineering Graduate** — Tanta University *(Excellent, 85%)*  
+👨‍🏫 **Flutter Instructor @ NTI** — 90+ hours of training delivered  
+📱 **Flutter Developer** with real-world production experience  
+⚡ **MVP Delivery** — shipped a full client app in just 2 weeks  
+🔥 Strong with **Firebase**, **REST APIs**, and **performance optimization**  
+🏗️ Passionate about **Clean Architecture**, **BLoC**, and scalable code
+
+</td>
+</tr>
+</table>
 
 ```yaml
 Name        : Karim Tamer
@@ -53,7 +60,7 @@ Role        : Flutter Developer & Instructor
 Education   : B.Sc. Computer Engineering — Tanta University (Excellent, 85%)
 Experience  : Flutter Instructor @ NTI | Flutter Developer @ Mothooq
 Expertise   : Clean Architecture · BLoC · Firebase · REST APIs
-Status      : 🟢 Open to opportunities
+Status      : 🟢 Open to all opportunities
 ```
 
 ---
@@ -94,6 +101,19 @@ Status      : 🟢 Open to opportunities
 - Implemented BLoC state management with a fully responsive UI
 - Integrated Firebase Authentication for secure user flows
 - ⚡ **Delivered a functional MVP in just 2 weeks**
+
+---
+
+## 🏆 Achievements
+
+| | Achievement |
+|--|------------|
+| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
+| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
+| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
+| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
+| 🛒 | Built a real-time auction platform with live bidding & payments |
+| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
 
 ---
 
@@ -171,30 +191,14 @@ Status      : 🟢 Open to opportunities
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimTamer74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimTamer74&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimTamer74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimTamer74&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimTamer74&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KarimTamer74&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarimTamer74&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🏆 Achievements
-
-| # | Achievement |
-|---|------------|
-| 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
-| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
-| ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
-| 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
-| 🛒 | Built a real-time auction platform with live bidding & payments |
-| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
 
 ---
 
