@@ -1,27 +1,108 @@
-### Hi there 👋
+# 👋 Hi, I'm Karim Tamer
 
-- I'm a undergraduate student at the Faculty of Engineering, Tanta University, major Computer Engineering & automatic control.
-- I'm a junior flutter developer.
+🎓 Computer Engineering Student @ Faculty of Engineering, Tanta University
+💻 Flutter Developer | Mobile App Enthusiast
 
+---
 
-- 🔭 I’m currently working on improving my skills as a flutter developer.
-- 🌱 I’m currently curious about mobile applications.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [flutter_bloc](https://pub.dev/packages/flutter_bloc).
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view?usp=drive_link)
-- 📄 My Portfolio: [Portfolio](https://portfolio-karimtamer.netlify.app/)
-- 📫 How to reach me:
+## 🚀 About Me
 
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/karim-tamer74?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/kemo.abokamel.9?mibextid=ZbWKwL )
-  [!["Email"](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karimabokamel74@example.com)
-  
-### Some Projects 
-- *Taskify App* [Link](https://github.com/KarimTamer74/taskify-app)
-- *Chatbot app* [Link](https://github.com/KarimTamer74/chatbot-app/tree/master)
-- *Bookly app* [Link](https://github.com/KarimTamer74/bookly-app)
-- *Shopping app* [Link](https://github.com/KarimTamer74/shopping_app)
-- *Chat app* [Link](https://github.com/KarimTamer74/chat-app)
-- *Notes app* [Link](https://github.com/KarimTamer74/notes_app)
-- *News app* [Link](https://github.com/KarimTamer74/news-app)
-- *Weather app* [Link](https://github.com/KarimTamer74/weather-app)
+* 📱 Passionate about building **scalable and clean mobile applications using Flutter**
+* 🧠 Strong understanding of **BLoC architecture, clean code, and state management**
+* 🔥 Focused on creating **real-world apps with great UX/UI**
+* ⚙️ Experienced with **Firebase, REST APIs, Supabase, and local storage (Hive)**
+* 📈 Always improving and exploring new technologies in mobile development
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Dart, JavaScript
+* **Frameworks:** Flutter, React
+* **State Management:** BLoC, Cubit
+* **Backend & Services:** Firebase, Supabase
+* **Tools:** Git, GitHub, Postman, VS Code
+* **Architecture:** Clean Architecture, MVVM
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 Taskify App
+
+📌 A productivity and job tracking app
+
+* Track job applications, statuses, and CV versions
+* Focus Mode for better productivity
+* Clean UI with structured state management
+
+🔗 https://github.com/KarimTamer74/taskify-app
+
+---
+
+### 🔹 Mothooq (Used Cars Platform)
+
+📌 Marketplace for selling cars with mandatory inspection
+
+* Role-based system (users & service centers)
+* Vehicle inspection reports (PDF + images)
+* Firebase Authentication & real-time database
+
+---
+
+### 🔹 Chat App
+
+📌 Real-time messaging application
+
+* Firebase integration
+* Clean UI and responsive design
+
+🔗 https://github.com/KarimTamer74/chat-app
+
+---
+
+### 🔹 Bookly App
+
+📌 Books browsing app with API integration
+
+* Search & filtering
+* Modern UI & performance optimization
+
+🔗 https://github.com/KarimTamer74/bookly-app
+
+---
+
+## 📂 More Projects
+
+* 📰 News App → https://github.com/KarimTamer74/news-app
+* 🛒 Shopping App → https://github.com/KarimTamer74/shopping_app
+* 🌦️ Weather App → https://github.com/KarimTamer74/weather-app
+* 📝 Notes App → https://github.com/KarimTamer74/notes_app
+* 🤖 Chatbot App → https://github.com/KarimTamer74/chatbot-app
+
+---
+
+## 📄 Resume & Portfolio
+
+* 📄 CV: https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view
+* 🌐 Portfolio: https://portfolio-karimtamer.netlify.app/
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/karim-tamer74
+* 📘 Facebook: https://www.facebook.com/kemo.abokamel.9
+* 📧 Email: [karimabokamel74@example.com](mailto:karimabokamel74@example.com)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- You can enable these if you want -->
+
+<!-- ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimTamer74&show_icons=true) -->
+
+---
+
+⭐ *“Building apps that solve real problems and deliver great user experience.”*
