@@ -75,9 +75,9 @@
 
 ### 🔥 JobTasker App (Live)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p>
+</p> -->
 
 📱 Productivity & job tracking system
 
@@ -91,9 +91,9 @@
 
 ### 🛒 Bid Mart (Graduation Project)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
-</p>
+</p> -->
 
 📱 Real-time auction platform
 
@@ -107,9 +107,9 @@
 
 ### 📚 Bookly App
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
-</p>
+</p> -->
 
 📱 Book discovery app
 
@@ -121,14 +121,46 @@
 
 ---
 
-## 📂 More Projects
+📂 More Projects
+📰 News App → News browsing app with API integration & category filtering
+🔗 https://github.com/KarimTamer74/news-app
+💬 Chat App → Real-time chat using Firebase with clean UI
+🔗 https://github.com/KarimTamer74/chat-app
+🛍️ Shopping App → E-commerce UI with product listing & cart logic
+🔗 https://github.com/KarimTamer74/shopping_app
+🌦️ Weather App → Weather forecasting using external API & location data
+🔗 https://github.com/KarimTamer74/weather-app
+📝 Notes App → Local note-taking app with persistent storage
+🔗 https://github.com/KarimTamer74/notes_app
+🗺️ Play Zone
 
-* 💬 Chat App → https://github.com/KarimTamer74/chat-app
-* 🛍️ Shopping App → https://github.com/KarimTamer74/shopping_app
-* 🌦️ Weather App → https://github.com/KarimTamer74/weather-app
-* 📰 News App → https://github.com/KarimTamer74/news-app
-* 📝 Notes App → https://github.com/KarimTamer74/notes_app
+📍 Google Maps-based app to discover nearby football stadiums
+🔗 https://github.com/KarimTamer74/play_zone
 
+🍔 Yummy App
+
+🍳 Recipe app displaying meals with categories & details
+🔗 https://github.com/KarimTamer74/yummy_app
+
+💳 Payment App
+
+💰 Payment integration demo (Stripe & PayPal) with secure flows
+🔗 https://github.com/KarimTamer74/payment_app
+
+🛒 NTI E-Commerce
+
+🛍️ Simple e-commerce app with product browsing & basic cart
+🔗 https://github.com/KarimTamer74/nti-e-commerce
+
+🤖 Chatbot App
+
+🤖 AI chatbot interface with conversational UI
+🔗 https://github.com/KarimTamer74/chatbot-app
+
+💬 NTI WhatsApp Clone
+
+📱 Messaging app clone with chat UI & basic messaging features
+🔗 https://github.com/KarimTamer74/nti_whatsapp
 ---
 
 ## 🌐 Portfolio & CV
