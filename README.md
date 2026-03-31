@@ -121,81 +121,21 @@
 
 ## 📂 More Projects
 
-### 📰 News App
-
-News browsing app with API integration & category filtering
-🔗 **[App Link](https://github.com/KarimTamer74/news-app)**
-
----
-
-### 💬 Chat App
-
-Real-time chat using Firebase with clean and responsive UI
-🔗 **[App Link](https://github.com/KarimTamer74/chat-app)**
-
----
-
-### 🛍️ Shopping App
-
-E-commerce app with product listing, filtering, and cart functionality
-🔗 **[App Link](https://github.com/KarimTamer74/shopping_app)**
+| 🚀 Project                | 🧾 Description                                                       | 🔗                                                         |
+| ------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 🍔 **Yummy App**          | Recipe app with categories, meals, and detailed cooking instructions | [App Link](https://github.com/KarimTamer74/yummy_app)      |
+| 📰 **News App**           | News app with API integration, categories, and filtering             | [App Link](https://github.com/KarimTamer74/news-app)       |
+| 🛒 **NTI E-Commerce**     | E-commerce app with product browsing and cart system                 | [App Link](https://github.com/KarimTamer74/nti-e-commerce) |
+| 💳 **Payment App**        | Stripe & PayPal integration demo with secure payment flows           | [App Link](https://github.com/KarimTamer74/payment_app)    |
+| 🗺️ **Play Zone**         | Google Maps app to discover nearby football stadiums                 | [App Link](https://github.com/KarimTamer74/play_zone)      |
+| 💬 **Chat App**           | Real-time chat using Firebase with clean UI                          | [App Link](https://github.com/KarimTamer74/chat-app)       |
+| 🤖 **Chatbot App**        | AI chatbot interface with conversational UI                          | [App Link](https://github.com/KarimTamer74/chatbot-app)    |
+| 🛍️ **Shopping App**      | E-commerce UI with product listing and cart logic                    | [App Link](https://github.com/KarimTamer74/shopping_app)   |
+| 🌦️ **Weather App**       | Weather app using API and location-based data                        | [App Link](https://github.com/KarimTamer74/weather-app)    |
+| 📝 **Notes App**          | Local note-taking app with persistent storage                        | [App Link](https://github.com/KarimTamer74/notes_app)      |
+| 💬 **NTI WhatsApp Clone** | Messaging app clone with chat UI features                            | [App Link](https://github.com/KarimTamer74/nti_whatsapp)   |
 
 ---
-
-### 🌦️ Weather App
-
-Weather forecasting app using external APIs and location-based data
-🔗 **[App Link](https://github.com/KarimTamer74/weather-app)**
-
----
-
-### 📝 Notes App
-
-Simple and efficient note-taking app with local storage
-🔗 **[App Link](https://github.com/KarimTamer74/notes_app)**
-
----
-
-### 🗺️ Play Zone
-
-Google Maps-based app to discover nearby football stadiums
-🔗 **[App Link](https://github.com/KarimTamer74/play_zone)**
-
----
-
-### 🍔 Yummy App
-
-Recipe app displaying meals, categories, and cooking details
-🔗 **[App Link](https://github.com/KarimTamer74/yummy_app)**
-
----
-
-### 💳 Payment App
-
-Payment integration demo using Stripe & PayPal with secure flows
-🔗 **[App Link](https://github.com/KarimTamer74/payment_app)**
-
----
-
-### 🛒 NTI E-Commerce
-
-Simple e-commerce app with product browsing and cart system
-🔗 **[App Link](https://github.com/KarimTamer74/nti-e-commerce)**
-
----
-
-### 🤖 Chatbot App
-
-AI chatbot interface with conversational UI
-🔗 **[App Link](https://github.com/KarimTamer74/chatbot-app)**
-
----
-
-### 💬 NTI WhatsApp Clone
-
-Messaging app clone with chat UI and core messaging features
-🔗 **[App Link](https://github.com/KarimTamer74/nti_whatsapp)**
-
 
 ## 🌐 Portfolio & CV
 
