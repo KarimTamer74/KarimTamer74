@@ -1,8 +1,6 @@
 <!-- Animated Flutter Banner -->
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://lottiefiles.com/free-animation/development-bJNyWI16KL)" width="300"/>
-</p>
+<img src="YOUR_GIF_LINK_HERE" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Karim Tamer</h1>
 
