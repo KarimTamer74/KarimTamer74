@@ -139,8 +139,16 @@
 
 ## 🌐 Portfolio & CV
 
-* 🌐 Portfolio: https://portfolio-karimtamer.netlify.app/
-* 📄 CV: https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view
+<p align="center">
+  <a href="https://portfolio-karimtamer.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-View-blue?style=for-the-badge">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Ld9NWpZWSMdKZPtcBExxnhlsRLoA_rh3/view">
+    <img src="https://img.shields.io/badge/📄 CV-Download-red?style=for-the-badge">
+  </a>
+</p>
+
 
 ---
 
