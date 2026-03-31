@@ -79,11 +79,11 @@
 
 📱 A productivity & job tracking application designed to manage the full job search lifecycle efficiently.
 
-🧾 Track job applications, statuses, and CV versions
-⏰ Smart reminder system using Local Notifications
-💾 Optimized local storage using Sqflite
-🎯 Focus Mode to enhance productivity
-🎨 Clean UI with theming & localization support
+- 🧾 Track job applications, statuses, and CV versions  
+- ⏰ Smart reminder system using Local Notifications  
+- 💾 Optimized local storage using Sqflite  
+- 🎯 Focus Mode to enhance productivity  
+- 🎨 Clean UI with theming & localization support  
 
 🌐 [App Details](https://jobtasker-app.netlify.app/)
 
@@ -97,11 +97,11 @@
 
 📱 A real-time auction platform enabling dynamic bidding and complete seller-side management.
 
-🔴 Live bidding system with real-time price updates
-💳 Secure payment integration
-🔔 Real-time notifications for auction events
-🧑‍💼 Full seller workflow (create, manage, monitor auctions)
-🏗️ Built using Clean Architecture & scalable design
+- 🔴 Live bidding system with real-time price updates
+- 💳 Secure payment integration
+- 🔔 Real-time notifications for auction events
+- 🧑‍💼 Full seller workflow (create, manage, monitor auctions)
+- 🏗️ Built using Clean Architecture & scalable design
 
 🔗 [App Details](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
 
@@ -115,11 +115,11 @@
 
 📱 A book discovery app focused on performance and clean architecture.
 
-🔍 Book search & category browsing
-⚡ API integration with optimized pagination
-💾 Local caching using Hive
-🧩 BLoC state management
-🎨 Modern and responsive UI
+- 🔍 Book search & category browsing
+- ⚡ API integration with optimized pagination
+- 💾 Local caching using Hive
+- 🧩 BLoC state management
+- 🎨 Modern and responsive UI
 
 🔗 🌐 [App Details](https://github.com/KarimTamer74/bookly-app)
 
