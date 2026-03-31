@@ -77,11 +77,13 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
 </p> -->
 
-📱 Productivity & job tracking system
+📱 A productivity & job tracking application designed to manage the full job search lifecycle efficiently.
 
-* Task & job tracking
-* Local DB (Sqflite)
-* Smart notifications
+🧾 Track job applications, statuses, and CV versions
+⏰ Smart reminder system using Local Notifications
+💾 Optimized local storage using Sqflite
+🎯 Focus Mode to enhance productivity
+🎨 Clean UI with theming & localization support
 
 🌐 [App Details](https://jobtasker-app.netlify.app/)
 
@@ -93,11 +95,13 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p> -->
 
-📱 Real-time auction platform
+📱 A real-time auction platform enabling dynamic bidding and complete seller-side management.
 
-* Live bidding system
-* Payment integration
-* Notifications system
+🔴 Live bidding system with real-time price updates
+💳 Secure payment integration
+🔔 Real-time notifications for auction events
+🧑‍💼 Full seller workflow (create, manage, monitor auctions)
+🏗️ Built using Clean Architecture & scalable design
 
 🔗 [App Details](https://drive.google.com/drive/folders/1kbLdD2cy-TKpTsR25eVtWxRx6TMUop2M?usp=drive_link)
 
@@ -109,11 +113,13 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
 </p> -->
 
-📱 Book discovery app
+📱 A book discovery app focused on performance and clean architecture.
 
-* API + Pagination
-* Hive caching
-* BLoC architecture
+🔍 Book search & category browsing
+⚡ API integration with optimized pagination
+💾 Local caching using Hive
+🧩 BLoC state management
+🎨 Modern and responsive UI
 
 🔗 🌐 [App Details](https://github.com/KarimTamer74/bookly-app)
 
