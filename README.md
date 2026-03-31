@@ -70,6 +70,7 @@
 
 ### 🧩 Architecture & Patterns
 
+<p align="center">
 | Concept | Details |
 |--------|---------|
 | 🏗️ Architecture | Clean Architecture, MVVM |
@@ -77,7 +78,7 @@
 | 🌐 Backend | REST APIs, Firebase, Supabase |
 | 🧹 Code Quality | SOLID Principles, Clean Code |
 | 💾 Local Storage | Hive, Sqflite, SharedPreferences |
-
+</p>
 ---
 
 ## 💼 Experience
@@ -167,14 +168,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KarimTamer74&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -189,6 +182,14 @@
 | 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KarimTamer74&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
