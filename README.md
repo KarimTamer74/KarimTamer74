@@ -176,7 +176,7 @@
 - 🧩 BLoC state management throughout
 - 🎨 Modern, responsive UI
 
-🔗 [View on GitHub](https://github.com/KarimTamer74/bookly-app)
+🔗 [View Project & Screenshots](https://github.com/KarimTamer74/bookly-app)
 
 ---
 
