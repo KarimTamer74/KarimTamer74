@@ -44,11 +44,11 @@
 <td>
 
 🎓 **Computer Engineering Graduate** — Tanta University *(Excellent, 85%)*  
-👨‍🏫 **Flutter Instructor @ NTI** — 90+ hours of training delivered  
-📱 **Flutter Developer** with real-world production experience  
-⚡ **MVP Delivery** — shipped a full client app in just 2 weeks  
-🔥 Strong with **Firebase**, **REST APIs**, and **performance optimization**  
-🏗️ Passionate about **Clean Architecture**, **BLoC**, and scalable code
+👨‍🏫 **Flutter Instructor @ NTI** — Trained **100+ developers** through 90+ hours  
+📱 **Flutter Developer** building production-ready and scalable mobile applications  
+⚡ **MVP Delivery** — shipped a client application in just 2 weeks  
+🔥 Experienced with **REST APIs, Firebase, local databases, authentication, and responsive UI**  
+🏗️ Strong in **Clean Architecture, MVVM, BLoC/Cubit, SOLID, Clean Code, and scalable app architecture**
 
 </td>
 </tr>
@@ -87,24 +87,23 @@
 ## 💼 Experience
 
 ### 👨‍🏫 Flutter Instructor — NTI
-- Delivered **90+ hours** of structured Flutter training
-- Mentored trainees through real-world app development
-- Focused on clean code practices, BLoC, and scalable architecture
+- Trained and mentored **100+ developers** through **90+ hours** of structured Flutter training.
+- Delivered hands-on training covering **Dart, Flutter, REST APIs, BLoC/Cubit, MVVM, and Clean Architecture**.
+- Guided trainees in building real-world Flutter applications while applying **Clean Code, reusable components, and scalable architecture**.
 
 ### 💻 Flutter Developer — Mothooq *(Freelance)*
-- Built a used-car marketplace from scratch
-- Implemented BLoC state management with a fully responsive UI
-- Integrated Firebase Authentication for secure user flows
-- ⚡ **Delivered a functional MVP in just 2 weeks**
+- Developed a **used-car marketplace** from the ground up using Flutter.
+- Implemented **BLoC state management, responsive UI, and Firebase Authentication**.
+- Built and delivered a functional **MVP within 2 weeks** based on the client's requirements.
 
 ---
 
-
 ## 🌟 Featured Projects
 
-### ⚓ Marsa — *Flutter Booking Platform*
+### <img src="docs/screenshots/marsa_icon.png" width="32" valign="middle"> Marsa — *Flutter Booking Platform*
 
 > A modern vacation rental platform for discovering, booking, and managing vacation stays.
+> 🚧 **Status:** Active Development
 
 - 🏠 Built a complete unit discovery experience with featured units, price-based sections, search, and category filtering
 - 📅 Implemented a **4-step booking flow** covering date selection, booking summary, payment, and confirmation
@@ -119,23 +118,24 @@
 
 ---
 
-### 🎬 Quran Cuts — *Flutter / FFmpeg*
+### <img src="docs/screenshots/quran_cuts_icon.png" width="32" valign="middle"> Quran Cuts — *Flutter / FFmpeg*
 
 > A Quran-focused Flutter application that enables users to create and share cinematic vertical Quran Reels by selecting Surahs, specific Ayah ranges, reciters, and visual templates.
+> 🚧 **Status:** Active Development
 
-- 📖 Built a guided **7-step creation workflow** covering Surah selection, Ayah range, reciter, templates, preview, generation, and final video.
-- 🎙️ Integrated **EveryAyah** for dynamic recitation audio, allowing users to preview and generate content using their selected reciter and Ayahs.
-- 🎥 Engineered an **FFmpeg-based video generation pipeline** that combines recitation audio, Arabic Quran text, backgrounds, Surah metadata, and reciter information into **9:16 MP4 videos**.
-- 🎨 Implemented **customizable templates**, Suggested Templates, My Templates, template rename/delete, and dynamic visual configuration.
-- 🏗️ Structured the application using **MVVM-oriented architecture, Cubit/BLoC, reusable services, and feature-based modules**.
-- 🌍 Added **Arabic/English localization, RTL support, Light/Dark themes, and responsive UI**.
-- 📱 Implemented video playback, generation progress, **gallery export, and sharing** for the generated Reels.
+- 📖 Built a guided **7-step creation workflow** covering Surah selection, Ayah range, reciter, templates, preview, generation, and final video
+- 🎙️ Integrated **EveryAyah** for dynamic recitation audio
+- 🎥 Engineered an **FFmpeg-based video generation pipeline** combining recitation audio, Arabic Quran text, backgrounds, and metadata into **9:16 MP4 videos**
+- 🎨 Implemented **customizable templates**, Suggested Templates, My Templates, template rename/delete, and dynamic visual configuration
+- 🏗️ Structured the application using **MVVM-oriented architecture, Cubit/BLoC, reusable services, and feature-based modules**
+- 🌍 Added **Arabic/English localization, RTL support, Light/Dark themes, and responsive UI**
+- 📱 Implemented video playback, generation progress, **gallery export, and sharing**
 
 🔗 [View Project & Screenshots](https://github.com/KarimTamer74/quran-cuts-readme)
 
 ---
 
-### 🔥 JobTasker — *Live on Google Play*
+### <img src="docs/screenshots/jobtasker_icon.png" width="32" valign="middle"> JobTasker — *Live on Google Play*
 
 > A productivity app for managing the full job search lifecycle — from applications to interviews.
 
@@ -151,7 +151,7 @@
 
 ---
 
-### 🛒 Bid Mart — *Graduation Project*
+### <img src="docs/screenshots/bidmart_icon.png" width="32" valign="middle"> Bid Mart — *Graduation Project*
 
 > A real-time auction platform with live bidding and full seller management.
 
@@ -165,7 +165,7 @@
 
 ---
 
-### 📚 Bookly App
+### <img src="docs/screenshots/bookly_icon.png" width="32" valign="middle"> Bookly App
 
 > A book discovery app focused on performance, clean architecture, and a smooth reading experience.
 
@@ -197,12 +197,12 @@
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- Flutter Web & Desktop development
-- Riverpod as a modern alternative to BLoC
-- CI/CD pipelines with GitHub Actions for Flutter
-- Advanced animations with Lottie & Rive
+- Kotlin & Android Development
+- Jetpack Compose
+- CI/CD for Flutter
+- Advanced Flutter Performance
 
 ---
 
@@ -213,11 +213,11 @@
 | | Achievement |
 |:--:|:-----------|
 | 🚀 | Launched **JobTasker** on Google Play — a fully production-ready app |
-| 👨‍🏫 | Trained developers through **90+ hours** of Flutter instruction @ NTI |
+| 👨‍🏫 | Trained **100+ developers** through **90+ hours** of Flutter instruction @ NTI |
 | ⚡ | Delivered a complete client MVP in **2 weeks** (Mothooq App) |
 | 🎓 | Graduated with **Excellent (85%)** in Computer Engineering |
 | 🛒 | Built a real-time auction platform with live bidding & payments |
-| 🏗️ | Consistently applies Clean Architecture & MVVM across all projects |
+| 🏗️ | Consistently applies **MVVM, Cubit/BLoC & scalable architecture** across projects |
 
 </div>
 
