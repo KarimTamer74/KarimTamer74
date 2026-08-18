@@ -100,7 +100,7 @@
 
 ## 🌟 Featured Projects
 
-### <img src="docs/screenshots/marsa_icon.png" width="32" valign="middle"> Marsa — *Flutter Booking Platform*
+### <img src="docs/screenshots/marsa_app_icon.png" width="32" valign="middle"> Marsa — *Flutter Booking Platform*
 
 > A modern vacation rental platform for discovering, booking, and managing vacation stays.
 > 🚧 **Status:** Active Development
@@ -118,7 +118,7 @@
 
 ---
 
-### <img src="docs/screenshots/quran_cuts_icon.png" width="32" valign="middle"> Quran Cuts — *Flutter / FFmpeg*
+### <img src="docs/screenshots/quran_cuts_logo.png" width="32" valign="middle"> Quran Cuts — *Flutter / FFmpeg*
 
 > A Quran-focused Flutter application that enables users to create and share cinematic vertical Quran Reels by selecting Surahs, specific Ayah ranges, reciters, and visual templates.
 > 🚧 **Status:** Active Development
@@ -135,7 +135,7 @@
 
 ---
 
-### <img src="docs/screenshots/jobtasker_icon.png" width="32" valign="middle"> JobTasker — *Live on Google Play*
+### <img src="docs/screenshots/jobtasker_logo.png" width="32" valign="middle"> JobTasker — *Live on Google Play*
 
 > A productivity app for managing the full job search lifecycle — from applications to interviews.
 
@@ -151,7 +151,7 @@
 
 ---
 
-### <img src="docs/screenshots/bidmart_icon.png" width="32" valign="middle"> Bid Mart — *Graduation Project*
+### <img src="docs/screenshots/bid_mart_logo.png" width="32" valign="middle"> Bid Mart — *Graduation Project*
 
 > A real-time auction platform with live bidding and full seller management.
 
@@ -165,7 +165,7 @@
 
 ---
 
-### <img src="docs/screenshots/bookly_icon.png" width="32" valign="middle"> Bookly App
+### <img src="docs/screenshots/bookly_logo.png" width="32" valign="middle"> Bookly App
 
 > A book discovery app focused on performance, clean architecture, and a smooth reading experience.
 
