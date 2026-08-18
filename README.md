@@ -185,7 +185,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 🍔 **Yummy App** | Recipe app with categories, meals & cooking instructions | [GitHub](https://github.com/KarimTamer74/yummy_app) |
-| 📰 **News App** | News app with API integration, categories & filtering | [GitHub](https://github.com/KarimTamer74/news-app) |
+| 📰 **News App** | News app with API integration, categories & filtering | [GitHub](https://github.com/KarimTamer74/nti_newApp) |
 | 🛒 **NTI E-Commerce** | E-commerce app with product browsing and cart system | [GitHub](https://github.com/KarimTamer74/nti-e-commerce) |
 | 💳 **Payment App** | Stripe & PayPal integration demo with secure flows | [GitHub](https://github.com/KarimTamer74/payment_app) |
 | 🗺️ **Play Zone** | Google Maps app to discover nearby football stadiums | [GitHub](https://github.com/KarimTamer74/play_zone) |
