@@ -131,7 +131,7 @@
 - 🌍 Added **Arabic/English localization, RTL support, Light/Dark themes, and responsive UI**.
 - 📱 Implemented video playback, generation progress, **gallery export, and sharing** for the generated Reels.
 
-🔗 [View on GitHub](https://github.com/KarimTamer74/quran-cuts-readme)
+🔗 [View Project & Screenshots](https://github.com/KarimTamer74/quran-cuts-readme)
 
 ---
 
