@@ -125,13 +125,12 @@
 
 > 🚧 **Status:** Active Development
 
-- 📖 Built a guided **7-step creation workflow** covering Surah selection, Ayah range, reciter, templates, preview, generation, and final video
-- 🎙️ Integrated **EveryAyah** for dynamic recitation audio
-- 🎥 Engineered an **FFmpeg-based video generation pipeline** combining recitation audio, Arabic Quran text, backgrounds, and metadata into **9:16 MP4 videos**
-- 🎨 Implemented **customizable templates**, Suggested Templates, My Templates, template rename/delete, and dynamic visual configuration
-- 🏗️ Structured the application using **MVVM-oriented architecture, Cubit/BLoC, reusable services, and feature-based modules**
-- 🌍 Added **Arabic/English localization, RTL support, Light/Dark themes, and responsive UI**
-- 📱 Implemented video playback, generation progress, **gallery export, and sharing**
+- 📖 Built a **7-step creation workflow** for Surah, Ayah range, reciter, template, preview, and video generation
+- 🎙️ Integrated **EveryAyah** for dynamic recitation audio and **FFmpeg** for 9:16 MP4 video generation
+- 🎨 Implemented **custom templates**, Suggested Templates, My Templates, and template management
+- 🏗️ Structured the app using **MVVM, Cubit/BLoC, and feature-based modules** with reusable services
+- 🌍 Added **Arabic/English localization, RTL, Light/Dark themes, and responsive UI**
+- 📱 Implemented **video playback, gallery export, sharing, and generation progress**
 
 🔗 [View Project & Screenshots](https://github.com/KarimTamer74/quran-cuts-readme)
 
@@ -148,7 +147,7 @@
 - 🎨 Clean UI with theming & full localization support
 
 <a href="https://play.google.com/store/apps/details?id=com.karim.jobtasker">
-  <img src="https://img.shields.io/badge/Google_Play-View_App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play">
+  <img src="https://img.shields.io/badge/Google_Play-View_App-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play">
 </a>
 
 ---
