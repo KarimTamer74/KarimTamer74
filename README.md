@@ -103,6 +103,7 @@
 ### <img src="docs/screenshots/marsa_app_icon.png" width="32" valign="middle"> Marsa — *Flutter Booking Platform*
 
 > A modern vacation rental platform for discovering, booking, and managing vacation stays.
+
 > 🚧 **Status:** Active Development
 
 - 🏠 Built a complete unit discovery experience with featured units, price-based sections, search, and category filtering
@@ -121,6 +122,7 @@
 ### <img src="docs/screenshots/quran_cuts_logo.png" width="32" valign="middle"> Quran Cuts — *Flutter / FFmpeg*
 
 > A Quran-focused Flutter application that enables users to create and share cinematic vertical Quran Reels by selecting Surahs, specific Ayah ranges, reciters, and visual templates.
+
 > 🚧 **Status:** Active Development
 
 - 📖 Built a guided **7-step creation workflow** covering Surah selection, Ayah range, reciter, templates, preview, generation, and final video
