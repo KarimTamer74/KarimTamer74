@@ -102,6 +102,35 @@
 
 ## 🌟 Featured Projects
 
+### ⚓ Marsa — *Flutter Booking Platform*
+
+> A modern vacation rental platform for discovering, booking, and managing vacation stays.
+
+- 🏠 Built a complete unit discovery experience with featured units, price-based sections, search, and category filtering
+- 📅 Implemented a **4-step booking flow** covering date selection, booking summary, payment, and confirmation
+- 💳 Integrated manual payment through **InstaPay & wallet transfers** with payment receipt upload
+- ❤️ Added favorites and booking management with status tracking
+- 👤 Implemented profile management, localization, RTL support, and Light / Dark themes
+- 🏗️ Built using **Clean Architecture, Cubit/BLoC, Dio, GetIt, and secure token storage**
+- ⚡ Integrated **Shorebird** for over-the-air Flutter updates
+- ✨ Added skeleton loading, shimmer effects, cached images, and responsive UI
+
+🔗 [View Project & Screenshots](https://github.com/KarimTamer74/marsa-app-readme)
+
+---
+
+### 🎬 Quran Cuts — *Flutter / FFmpeg*
+
+> A Flutter application for creating cinematic vertical Quran videos from selected Ayahs, reciters, and customizable templates.
+
+- 🎙️ Dynamic Quran recitation with **EveryAyah** audio integration
+- 🎥 On-device **FFmpeg** video generation with Arabic text, audio, and visual templates
+- 🏗️ Built with **MVVM, Cubit/BLoC, feature-based architecture**, and reusable components
+
+🔗 [View Project & Screenshots](https://github.com/KarimTamer74/quran-cuts-readme)
+
+---
+
 ### 🔥 JobTasker — *Live on Google Play*
 
 > A productivity app for managing the full job search lifecycle — from applications to interviews.
@@ -112,7 +141,9 @@
 - 🎯 Focus Mode to boost productivity
 - 🎨 Clean UI with theming & full localization support
 
-🌐 [View App Details](https://jobtasker-app.netlify.app/)
+<a href="https://play.google.com/store/apps/details?id=com.karim.jobtasker">
+  <img src="https://img.shields.io/badge/Google_Play-View_App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play">
+</a>
 
 ---
 
