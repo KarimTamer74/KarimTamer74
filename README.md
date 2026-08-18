@@ -121,13 +121,17 @@
 
 ### 🎬 Quran Cuts — *Flutter / FFmpeg*
 
-> A Flutter application for creating cinematic vertical Quran videos from selected Ayahs, reciters, and customizable templates.
+> A Quran-focused Flutter application that enables users to create and share cinematic vertical Quran Reels by selecting Surahs, specific Ayah ranges, reciters, and visual templates.
 
-- 🎙️ Dynamic Quran recitation with **EveryAyah** audio integration
-- 🎥 On-device **FFmpeg** video generation with Arabic text, audio, and visual templates
-- 🏗️ Built with **MVVM, Cubit/BLoC, feature-based architecture**, and reusable components
+- 📖 Built a guided **7-step creation workflow** covering Surah selection, Ayah range, reciter, templates, preview, generation, and final video.
+- 🎙️ Integrated **EveryAyah** for dynamic recitation audio, allowing users to preview and generate content using their selected reciter and Ayahs.
+- 🎥 Engineered an **FFmpeg-based video generation pipeline** that combines recitation audio, Arabic Quran text, backgrounds, Surah metadata, and reciter information into **9:16 MP4 videos**.
+- 🎨 Implemented **customizable templates**, Suggested Templates, My Templates, template rename/delete, and dynamic visual configuration.
+- 🏗️ Structured the application using **MVVM-oriented architecture, Cubit/BLoC, reusable services, and feature-based modules**.
+- 🌍 Added **Arabic/English localization, RTL support, Light/Dark themes, and responsive UI**.
+- 📱 Implemented video playback, generation progress, **gallery export, and sharing** for the generated Reels.
 
-🔗 [View Project & Screenshots](https://github.com/KarimTamer74/quran-cuts-readme)
+🔗 [View on GitHub](https://github.com/KarimTamer74/quran-cuts-readme)
 
 ---
 
