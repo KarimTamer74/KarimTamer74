@@ -19,9 +19,6 @@
   <a href="https://portfolio-karimtamer.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/drive/folders/19I1C7fwVwBicV5Pr0rZowLLwAXVIr9J0?usp=drive_link">
-    <img src="https://img.shields.io/badge/CV-Download-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
   <a href="https://github.com/KarimTamer74">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
